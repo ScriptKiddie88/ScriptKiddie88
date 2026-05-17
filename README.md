@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on my website <br>I’m looking to collaborate on same website <br>Do you know a fun fact? I’m only 11 years old<br><br>
+🔭I’m currently working on my website <br>⭐I’m looking to collaborate on same website <br>🍿Do you know a fun fact? I’m only 11 years old<br><br>
 
 
 ## 🌐 Socials:
