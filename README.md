@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="IMG_0063.jpeg" alt="My GitHub Banner" width="90%" max-width="900px">
-</p>
+
 
 
 # 💫 About Me:
