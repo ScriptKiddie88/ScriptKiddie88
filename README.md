@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭I’m currently working on my Pokemom inspired website <br>⭐I’m looking to collaborate on same  <br>🍿Do you know a fun fact? I’m only 11 years old<br><br>
+🔭I’m currently working on my Pokemom inspired website. <br>⭐I’m looking to collaborate on same.  <br>🍿Do you know a fun fact? I’m only 11 years old.<br><br>
 
 
 ## 🌐 Socials:
